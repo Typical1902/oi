@@ -131,7 +131,7 @@ http.on('listening', () => {
 		process.platform === 'win32' ? '\x1B[2J\x1B[0f' : '\x1B[2J\x1B[3J\x1B[H'
 	);
 
-	console.log(`You can now view ${chalk.bold('website-aio')} in the browser.`);
+	console.log(`You can now view ${chalk.bold('websitseedce-aio')} in the browser.`);
 
 	console.log('');
 
